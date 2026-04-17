@@ -180,9 +180,6 @@ Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
-Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes. (Nota: O arquivo LICENSE não foi fornecido no repositório original, mas é uma boa prática incluí-lo.)
 
 Autor
 
