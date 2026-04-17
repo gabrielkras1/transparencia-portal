@@ -1,0 +1,144 @@
+{
+  "resumo": {
+    "totalDespesas": 1254300.5,
+    "totalProjetosAtivos": 6
+  },
+  "projetos": [
+    {
+      "id": 1,
+      "nome": "Reforma da Escola Municipal João Pessoa",
+      "categoria": "Educação",
+      "valor": 250000,
+      "status": "Ativo",
+      "ano": 2025
+    },
+    {
+      "id": 2,
+      "nome": "Pavimentação Rua das Flores",
+      "categoria": "Infraestrutura",
+      "valor": 420000,
+      "status": "Concluído",
+      "ano": 2024
+    },
+    {
+      "id": 3,
+      "nome": "Ampliação do Posto de Saúde Central",
+      "categoria": "Saúde",
+      "valor": 180000,
+      "status": "Ativo",
+      "ano": 2025
+    },
+    {
+      "id": 4,
+      "nome": "Programa de Hortas Comunitárias",
+      "categoria": "Meio Ambiente",
+      "valor": 45000,
+      "status": "Ativo",
+      "ano": 2025
+    },
+    {
+      "id": 5,
+      "nome": "Modernização da Biblioteca Pública",
+      "categoria": "Cultura",
+      "valor": 60000,
+      "status": "Em Licitação",
+      "ano": 2026
+    },
+    {
+      "id": 6,
+      "nome": "Requalificação da Praça Central",
+      "categoria": "Infraestrutura",
+      "valor": 150000,
+      "status": "Ativo",
+      "ano": 2025
+    },
+    {
+      "id": 7,
+      "nome": "Projeto de Inclusão Digital",
+      "categoria": "Tecnologia",
+      "valor": 30000,
+      "status": "Concluído",
+      "ano": 2023
+    },
+    {
+      "id": 8,
+      "nome": "Manutenção de Iluminação Pública",
+      "categoria": "Serviços",
+      "valor": 12000,
+      "status": "Ativo",
+      "ano": 2025
+    }
+  ],
+  "despesas": [
+    {
+      "id": 1,
+      "descricao": "Compra de materiais escolares",
+      "categoria": "Educação",
+      "valor": 45000.5,
+      "data": "2025-02-10"
+    },
+    {
+      "id": 2,
+      "descricao": "Pagamento de horas extras - Saúde",
+      "categoria": "Saúde",
+      "valor": 32000,
+      "data": "2025-01-28"
+    },
+    {
+      "id": 3,
+      "descricao": "Serviços de limpeza urbana",
+      "categoria": "Serviços",
+      "valor": 150000,
+      "data": "2025-03-05"
+    },
+    {
+      "id": 4,
+      "descricao": "Aquisição de computadores para escolas",
+      "categoria": "Tecnologia",
+      "valor": 60000,
+      "data": "2024-11-20"
+    },
+    {
+      "id": 5,
+      "descricao": "Contratação de empresa de pavimentação",
+      "categoria": "Infraestrutura",
+      "valor": 420000,
+      "data": "2024-08-15"
+    },
+    {
+      "id": 6,
+      "descricao": "Compra de livros para biblioteca",
+      "categoria": "Cultura",
+      "valor": 12000,
+      "data": "2025-02-01"
+    },
+    {
+      "id": 7,
+      "descricao": "Manutenção de iluminação pública",
+      "categoria": "Serviços",
+      "valor": 12000,
+      "data": "2025-03-12"
+    },
+    {
+      "id": 8,
+      "descricao": "Insumos para hortas comunitárias",
+      "categoria": "Meio Ambiente",
+      "valor": 45000,
+      "data": "2025-02-18"
+    },
+    {
+      "id": 9,
+      "descricao": "Obras de ampliação do posto de saúde",
+      "categoria": "Saúde",
+      "valor": 180000,
+      "data": "2025-01-10"
+    },
+    {
+      "id": 10,
+      "descricao": "Pequenas reformas prediais",
+      "categoria": "Infraestrutura",
+      "valor": 100000,
+      "data": "2024-12-05"
+    }
+  ]
+}
